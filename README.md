@@ -1,12 +1,12 @@
 # spotifiy-analysis
 # 🎧 Spotify Music Data Analysis Project
 
-## 📌 Overview
+## Overview
 This project explores Spotify track data to identify patterns between audio features and track popularity. The goal is to understand what factors may influence whether a song becomes popular using exploratory data analysis (EDA) in Python.
 
 ---
 
-## 🎯 Objective
+## Objective
 To analyze Spotify song features such as:
 - Danceability  
 - Energy  
@@ -19,7 +19,7 @@ and determine how they relate to **track popularity**.
 
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset contains Spotify track information including:
 - Audio features (danceability, energy, tempo, etc.)
 - Playlist genre and subgenre
@@ -28,7 +28,7 @@ The dataset contains Spotify track information including:
 
 ---
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 - Python  
 - Pandas  
 - Matplotlib  
@@ -36,7 +36,7 @@ The dataset contains Spotify track information including:
 
 ---
 
-## 📈 Key Analyses Performed
+## Key Analyses Performed
 
 ### 1. Genre Distribution
 Explored how songs are distributed across different genres.
@@ -58,7 +58,7 @@ Used a heatmap to examine relationships between numerical features.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Genre distribution is uneven, with some genres dominating the dataset.
 - Danceability shows a weak positive relationship with popularity.
@@ -68,19 +68,19 @@ Used a heatmap to examine relationships between numerical features.
 
 ---
 
-## 📌 Business Takeaway
+## Business Takeaway
 Spotify track popularity is influenced by multiple factors rather than a single feature. Genre and audio characteristics play a role, but external factors such as trends, artist popularity, and marketing likely have a significant impact as well.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - This analysis is based only on correlation and exploratory analysis.
 - It does not establish causation.
 - External factors (marketing, artist fame, viral trends) are not included in the dataset.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 - Build predictive models for song popularity
 - Use machine learning (regression/classification)
 - Include Spotify API data for real-time analysis
@@ -88,5 +88,5 @@ Spotify track popularity is influenced by multiple factors rather than a single 
 
 ---
 
-## 👤 Author
+## Nancy Khalaf
 Aspiring Data Analyst | Python | SQL | Data Visualization
